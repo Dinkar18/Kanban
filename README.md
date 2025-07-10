@@ -78,8 +78,7 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
 bash
 Copy
 Edit
-git clone https://github.com/your-username/kanban-clone.git
-cd kanban-clone
+](https://github.com/Dinkar18/Kanban)cd kanban-clone
 npm install
 npm run dev
 🧠 Future Enhancements
